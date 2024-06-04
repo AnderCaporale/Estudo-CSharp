@@ -1,0 +1,14 @@
+C:\Users\ander\Desktop\C#\Balta\Teste\bin\Debug\net8.0\Teste.exe
+C:\Users\ander\Desktop\C#\Balta\Teste\bin\Debug\net8.0\Teste.deps.json
+C:\Users\ander\Desktop\C#\Balta\Teste\bin\Debug\net8.0\Teste.runtimeconfig.json
+C:\Users\ander\Desktop\C#\Balta\Teste\bin\Debug\net8.0\Teste.dll
+C:\Users\ander\Desktop\C#\Balta\Teste\bin\Debug\net8.0\Teste.pdb
+C:\Users\ander\Desktop\C#\Balta\Teste\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\C#\Balta\Teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\C#\Balta\Teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+C:\Users\ander\Desktop\C#\Balta\Teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\C#\Balta\Teste\obj\Debug\net8.0\Teste.dll
+C:\Users\ander\Desktop\C#\Balta\Teste\obj\Debug\net8.0\refint\Teste.dll
+C:\Users\ander\Desktop\C#\Balta\Teste\obj\Debug\net8.0\Teste.pdb
+C:\Users\ander\Desktop\C#\Balta\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+C:\Users\ander\Desktop\C#\Balta\Teste\obj\Debug\net8.0\ref\Teste.dll
